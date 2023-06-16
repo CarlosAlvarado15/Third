@@ -15,7 +15,7 @@
 
 .Empleado {
   width: 350px;
-  border: 2px solid gray;
+  border: 2px solid #a7a4a4;
   border-radius: 10px;
   height: 450px;
   overflow: hidden;
